@@ -1,25 +1,20 @@
 .homepage-hero {
-  border: 1px solid black;
   background-color: #1f2937;
   padding-bottom: 50px;
 }
-
 .navigation {
   display: flex;
   justify-content: space-between;
 }
-
 .navigation a {
   text-decoration: none;
   color: #e5e7eb;
   padding: 5px;
 }
-
 .logo {
   font-size: 24px;
   color: #f9faf8;
 }
-
 .navigation-links {
   display: flex;
   justify-content: space-evenly;
@@ -57,8 +52,13 @@
 }
 
 .products-section {
-  border: 1px solid black;
   text-align: center;
+}
+.products-section h3 {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: bolder;
+  margin-bottom: 20px;
 }
 .products-section .products-list {
   display: flex;
@@ -76,7 +76,19 @@
 }
 
 .reviews-section {
-  border: 1px solid black;
+  color: #1f2937;
+  background-color: #e5e7eb;
+  font-size: 26px;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.reviews-section p {
+  max-width: 60%;
 }
 
 .footer {
