@@ -1,6 +1,7 @@
 .homepage-hero {
   background-color: #1f2937;
   padding-bottom: 50px;
+  border-radius: 3px;
 }
 .navigation {
   display: flex;
@@ -22,11 +23,17 @@
   font-size: 18px;
 }
 
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .homepage-description {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   margin-top: 40px;
+  max-width: 80%;
 }
 .description-title {
   max-width: 60%;
@@ -53,6 +60,7 @@
 
 .products-section {
   text-align: center;
+  padding: 40px;
 }
 .products-section h3 {
   color: #1f2937;
@@ -78,6 +86,7 @@
 .reviews-section {
   color: #1f2937;
   background-color: #e5e7eb;
+  border-radius: 3px;
   font-size: 26px;
   font-weight: lighter;
   font-style: italic;
@@ -85,12 +94,46 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 40px;
 }
 .reviews-section p {
   max-width: 60%;
 }
 
 .footer {
-  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 90px;
+}
+.footer footer {
+  background-color: #3882f6;
+  border: 1px solid #3882f6;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 20px;
+}
+.footer .footer-description {
+  max-width: 65%;
+}
+.footer-description p {
+  color: #f9faf8;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.footer-description small {
+  color: #e5e7eb;
+  font-size: 15px;
+}
+.footer button {
+  color: #3882f6;
+  background-color: #f9faf8;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #3882f6;
+  border-radius: 5px;
 }
