@@ -83,8 +83,10 @@ section {
   gap: 10px;
 }
 .products-list img {
+  float: left;
   width: 150px;
-  height: auto;
+  height: 150px;
+  object-fit: cover;
 }
 
 .reviews-section {
