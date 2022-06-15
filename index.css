@@ -82,6 +82,10 @@ section {
   align-items: center;
   gap: 10px;
 }
+.products-list img {
+  width: 150px;
+  height: auto;
+}
 
 .reviews-section {
   color: #1f2937;
