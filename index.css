@@ -24,7 +24,7 @@
 }
 
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 250px;
   margin: auto;
 }
 .slideshow-container .slide-image {
@@ -62,7 +62,7 @@
 }
 /* Fading animation */
 .fade {
-  animation-duration: 3s;
+  animation-duration: 15s;
   animation-name: slidein;
   animation-iteration-count: infinite;
 }
