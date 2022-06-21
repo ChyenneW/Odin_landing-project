@@ -1,4 +1,11 @@
 let slideIndex = 1;
+const nextArrow = document.querySelector(".next");
+const prevArrow = document.querySelector(".prev");
+
+//Next/previous controls
+function plusSlides(n) {
+  showSlides((slideIndex += n));
+}
 
 function showSlides(n) {
   let i;
@@ -14,14 +21,9 @@ function showSlides(n) {
   }
   slides[slideIndex - 1].style.display = "block";
 }
-//Next/previous controls
-function plusSlides(n) {
-  showSlides((slideIndex += n));
-}
 
-// Thumbnail image controls
-function currentSlide(n) {
-  showSlides((slideIndex = n));
-}
+
+nextArrow.addEventListener("click", plusSlides(1));
+prevArrow.addEventListener("click", plusSlides(-1));
 
 showSlides(slideIndex);
