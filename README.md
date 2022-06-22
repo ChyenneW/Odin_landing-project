@@ -2,6 +2,7 @@
 
 Create a landing page using the image above as a guide.
 
+\*\*Images
 Photo by Dominika Roseclay: https://www.pexels.com/photo/gray-framed-eyeglasses-on-black-surface-2095953/
 
 Photo by Jess Bailey Designs: https://www.pexels.com/photo/round-gold-colored-analog-watch-with-pink-leather-strap-on-pink-notebook-1162519/
@@ -10,7 +11,7 @@ Photo by Nati: https://www.pexels.com/photo/jewellery-and-yellow-rose-laying-on-
 
 Photo by Arif khan: https://www.pexels.com/photo/red-tassel-earrings-on-white-surface-11655520/
 
-Slidshow Images
+\*\*Slidshow Images
 Photo by Mídia: https://www.pexels.com/photo/woman-touching-gold-necklace-1454171/
 
 Photo by Steven Arenas: https://www.pexels.com/photo/women-s-black-haltertop-618701/
@@ -24,28 +25,3 @@ Photo by Arsham Haghani: https://www.pexels.com/photo/woman-in-sunglasses-with-b
 Photo by Marlon Schmeiski: https://www.pexels.com/photo/woman-standing-next-to-yellow-wall-3839904/
 
 Photo by Godisable Jacob: https://www.pexels.com/photo/woman-touching-her-hair-selective-focal-photo-1580226/
-
-<div class="slide-image fade">
-            <img src="./images/slideshow/two.jpeg" width="100%">
-            <p class="slide-number">2/7</p>
-          </div>
-          <div class="slide-image fade">
-            <img src="./images/slideshow/three.jpeg" width="100%">
-            <p class="slide-number">3/7</p>
-          </div>
-          <div class="slide-image fade">
-            <img src="./images/slideshow/four.jpeg" width="100%">
-            <p class="slide-number">4/7</p>
-          </div>
-          <div class="slide-image fade">
-            <img src="./images/slideshow/five.jpeg" width="100%">
-            <p class="slide-number">5/7</p>
-          </div>
-          <div class="slide-image fade">
-            <img src="./images/slideshow/six.jpeg" width="100%">
-            <p class="slide-number">6/7</p>
-          </div>
-          <div class="slide-image fade">
-            <img src="./images/slideshow/seven.jpeg" width="100%">
-            <p class="slide-number">7/7</p>
-          </div>
