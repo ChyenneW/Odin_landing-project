@@ -28,7 +28,8 @@
   margin: auto;
 }
 .slideshow-container .slide-image {
-  display: none;
+  /* display: none; */
+  display: block;
 }
 .prev,
 .next {
@@ -139,7 +140,6 @@ section {
   font-weight: lighter;
   font-style: italic;
   text-align: left;
-  display: flex;
   justify-content: center;
   align-items: center;
   padding: 40px;

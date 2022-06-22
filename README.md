@@ -24,3 +24,28 @@ Photo by Arsham Haghani: https://www.pexels.com/photo/woman-in-sunglasses-with-b
 Photo by Marlon Schmeiski: https://www.pexels.com/photo/woman-standing-next-to-yellow-wall-3839904/
 
 Photo by Godisable Jacob: https://www.pexels.com/photo/woman-touching-her-hair-selective-focal-photo-1580226/
+
+<div class="slide-image fade">
+            <img src="./images/slideshow/two.jpeg" width="100%">
+            <p class="slide-number">2/7</p>
+          </div>
+          <div class="slide-image fade">
+            <img src="./images/slideshow/three.jpeg" width="100%">
+            <p class="slide-number">3/7</p>
+          </div>
+          <div class="slide-image fade">
+            <img src="./images/slideshow/four.jpeg" width="100%">
+            <p class="slide-number">4/7</p>
+          </div>
+          <div class="slide-image fade">
+            <img src="./images/slideshow/five.jpeg" width="100%">
+            <p class="slide-number">5/7</p>
+          </div>
+          <div class="slide-image fade">
+            <img src="./images/slideshow/six.jpeg" width="100%">
+            <p class="slide-number">6/7</p>
+          </div>
+          <div class="slide-image fade">
+            <img src="./images/slideshow/seven.jpeg" width="100%">
+            <p class="slide-number">7/7</p>
+          </div>
