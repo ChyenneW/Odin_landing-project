@@ -145,7 +145,14 @@ section {
   padding: 40px;
 }
 .reviews-section p {
-  max-width: 60%;
+  text-align: center;
+}
+.reviews h5 {
+  margin-bottom: 10px;
+}
+.reviews textarea {
+  width: 450px;
+  height: 100px;
 }
 
 .footer {
